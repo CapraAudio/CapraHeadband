@@ -1,5 +1,8 @@
 # CapraHeadband
 3D Printed Headphone Headband
+# Printing Instructions
+
+Print {1} and {4} in 95a TPU and the rest in petg or nylon. PLA+ or PLA Pro also work but may not last as long.
 
 # Assembly Instructions
 Its a fairly simple and straight forward assembly
